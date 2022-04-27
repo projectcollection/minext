@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Hi
+
+please add `.env.local` to the root of the project with these contents:
+
+```
+REACT_APP_AIRTB_KEY=your_airtable_key
+REACT_APP_DB_ID=app8ZbcPx7dkpOnP0
+```
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
